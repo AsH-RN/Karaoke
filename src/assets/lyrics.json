@@ -1,0 +1,6 @@
+[
+  {"time": 0, "text": "Start singing..."},
+  {"time": 5000, "text": "First line of the song"},
+  {"time": 10000, "text": "Second line of the song"}
+  // Add more lyrics with corresponding times
+]
